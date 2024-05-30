@@ -1,5 +1,4 @@
 ## Hi there 👋, i am Meshv Patel
-
 # 💫 About Me:
 
 
