@@ -1,6 +1,6 @@
-# Hi 👋 I'm Pranjali Sankpal
+# Hi 👋 I'm Meshv Patel
 ## A Passionate MERN Stack Developer from India
-### 💫 About Me:
+💫 About Me:
 🌱 I’m currently learning MERN stack Developing<br>💬 Ask me about MERN stack and especially about Frontend Development<br>📫 How to reach me meshv1444@gmail.com<br><br>
 
 
