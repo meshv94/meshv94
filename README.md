@@ -14,8 +14,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=meshv94&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=meshv94&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=meshv94&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=meshv94&icon=9&color=1)](https://visitcount.itsvg.in)
