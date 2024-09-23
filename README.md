@@ -2,7 +2,7 @@
 ## A Passionate MERN Stack Developer from India
 
 ### 💫 About Me:
-🌱 I’m currently learning MERN stack Developing<br>💬 Ask me about MERN stack and especially about Frontend Development<br>🔍 Currently diving deeper into React.js ecosystem, focusing on advanced techniques and best practices.<br>📚 Continuously learning and experimenting with new libraries and tools to enhance React.js development workflows.<br>📫 How to reach me meshv1444@gmail.com<br>
+🌱 I’m currently learning MERN stack Development<br>💬 Ask me about MERN stack and especially about Frontend Development<br>🔍 Currently diving deeper into React.js ecosystem, focusing on advanced techniques and best practices.<br>📚 Continuously learning and experimenting with new libraries and tools to enhance React.js development workflows.<br>📫 How to reach me meshv1444@gmail.com<br>
 
 
 ## 🌐 Socials:
